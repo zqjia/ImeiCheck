@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IMEICheck</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_toast">正在验证内测资格，请稍候……</string>
+	<string name="check_success">验证通过</string>
+	<string name="check_fail">很遗憾，您的手机不在内测范围内，请等待正式发布版本或联系内测管理员</string>
+	<string name="server_error">服务器内部错误</string>
+	<string name="socket_timeout">内测资格验证失败，请检查网络设置是否正确</string>
+	<string name="connection_timeout">内测资格验证失败，请检查网络设置是否正确</string>
+	<string name="local_check_fail">只进行本地验证，验证不通过</string>
+	
+</resources>
